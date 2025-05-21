@@ -1,0 +1,7 @@
+E:\VSCODE\menu-intera\obj\Debug\menu-intera.csproj.AssemblyReference.cache
+E:\VSCODE\menu-intera\obj\Debug\menu-intera.csproj.CoreCompileInputs.cache
+E:\VSCODE\menu-intera\bin\Debug\menu-intera.exe.config
+E:\VSCODE\menu-intera\bin\Debug\menu-intera.exe
+E:\VSCODE\menu-intera\bin\Debug\menu-intera.pdb
+E:\VSCODE\menu-intera\obj\Debug\menu-intera.exe
+E:\VSCODE\menu-intera\obj\Debug\menu-intera.pdb
